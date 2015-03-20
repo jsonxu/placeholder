@@ -8,11 +8,9 @@
 $.placeholder = function (selector) { //输入框默认提示文字切换功能
             if ($.browser.msie && ($.browser.version == "5.0" || $.browser.version == "6.0" || $.browser.version == "7.0" || $.browser.version == "8.0")) {
                 //ie5,6,7,8下执行该区域代码，其他浏览器在Input上加placeholder="请输入关键字"可自动实现
-                console.log("Dd");
                 var $input = $(selector);
                 var $txt = $input.attr('placeholder');
                 $input.val($txt);
-                console.log($txt);
                 if ($.trim($input.val()) == $txt) {//初始化颜色
                         $input.css('color', '#999');
                     }
