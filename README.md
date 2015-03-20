@@ -5,7 +5,7 @@
 
 代码很简单，先丢上来吧，现在只做了ID传参，后续再逐渐完善。
 
- <code>
+<pre>
 /*
  *作者：xukai
  *date:2015-03-18
@@ -40,4 +40,4 @@ $.placeholder = function (selector) { //输入框默认提示文字切换功能
                 });
             }
         };
- </code>
+ </pre>
