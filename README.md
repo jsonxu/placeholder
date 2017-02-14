@@ -1,10 +1,7 @@
 # placeholder
 兼容IE 6,7,8的input placeholder功能
 
-不要再为IE不支持placeholder功能而烦恼，下载吧，少年
-
-代码很简单，先丢上来吧，现在只做了ID传参，后续再逐渐完善。
-
+不要再为IE不支持placeholder功能而烦恼,简单实现，bug估计也有，请多多指正
 <pre>
 /*
  *作者：jsonxu
