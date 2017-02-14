@@ -7,7 +7,7 @@
 
 <pre>
 /*
- *作者：xukai
+ *作者：jsonxu
  *date:2015-03-18
  *模块说明：针对输入框placeholder功能的插件，使IE678也支持placeholder
  *参数：ID字符串，带双引号
